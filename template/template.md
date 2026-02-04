@@ -1,5 +1,3 @@
-# LeetCode XXX — Problem Title
-
 ![screenshot](../assets/lc-XXXX.png)
 
 ---
